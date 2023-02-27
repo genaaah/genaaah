@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQEVnKrgH3_JAQ/profile-displaybackgroundimage-shrink_350_1400/0/1670952069745?e=1683158400&v=beta&t=knwDbCM1o3fY01kER8Zkj3lAEn4HmWyppJ5eeN7P6jQ)](https://rishavchanda.io)
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQFL13oJcZ4tCQ/profile-displaybackgroundimage-shrink_350_1400/0/1677476152898?e=1683158400&v=beta&t=IwjLRpM6vObIyE6X3yeX2qcYQeZP1v2ZTrg994n6bAI)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Genaro Levato</h1>
 <h3 align="center">A passionate frontend and backend developer from Argentina looking to be part of some big project to demonstrate his skills</h3>
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
