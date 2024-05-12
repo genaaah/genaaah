@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="350" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif"  />
+</div>
+
+###
+
 <h2 align="center">Hi 👋, I'm Genaro Levato<br><br>A passionate frontend and backend developer from Argentina looking to be part of some big project to demonstrate his skills</h2>
 
 ###
