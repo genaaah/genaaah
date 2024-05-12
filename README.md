@@ -1,5 +1,7 @@
+<br clear="both">
+
 <div align="center">
-  <img height="350" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif"  />
+  <img height="250" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif"  />
 </div>
 
 ###
@@ -68,6 +70,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/genaaah/genaaah/output/snake.svg" alt="Snake animation" />
 
